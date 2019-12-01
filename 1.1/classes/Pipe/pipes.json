@@ -1,15 +1,15 @@
 {
     "results": [
         {
-            "author": "ss",
+            "author": "v1nc",
             "createdAt": "2019-07-16T12:27:11.883Z",
             "enabled": true,
             "lang": 3,
-            "name": "Future",
+            "name": "Custom Shop works",
             "objectId": "5d2dc29f659d610008161408",
             "pId": 5042,
-            "preview": "https://avos-cloud-0jf1e3trmjtf.s3.amazonaws.com/33e57651139a1f95b958/screenshot_aris.png",
-            "targetVersion": 1279,
+            "preview": "https://cameluck.github.io/images/screenshot_custom.png",
+            "targetVersion": 1256,
             "type": 5,
             "updatedAt": "2019-08-27T06:53:49.811Z",
             "url": "https://play.google.com/store/apps/details?id=com.ss.a2is.h3d&referrer=pkg%3Dcom.ss.aris"
@@ -27,7 +27,7 @@
             "preview": "http://file-qn.7doger.com/preview/preview_battery.jpg",
             "pricing": "",
             "pricing_en": "",
-            "targetVersion": 1213,
+            "targetVersion": 1256,
             "type": 1,
             "updatedAt": "2019-01-03T00:22:04.653Z",
             "url": "http://ojybcc8qi.bkt.clouddn.com/widget/battery-v2.dex",
@@ -47,7 +47,7 @@
             "preview": "http://file-qn.7doger.com/preview/preview_battery.jpg",
             "pricing": "",
             "pricing_en": "",
-            "targetVersion": 1213,
+            "targetVersion": 1256,
             "type": 1,
             "updatedAt": "2019-01-03T00:22:04.653Z",
             "url": "http://ojybcc8qi.bkt.clouddn.com/widget/battery-v2.dex",
